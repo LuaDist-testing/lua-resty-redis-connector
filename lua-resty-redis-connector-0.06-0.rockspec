@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-redis-connector"
-version = "0.05-0"
+version = "0.06-0"
 -- LuaDist source
 source = {
-  tag = "0.05-0",
+  tag = "0.06-0",
   url = "git://github.com/LuaDist-testing/lua-resty-redis-connector.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/pintsized/lua-resty-redis-connector",
---   tag = "v0.05"
+--   tag = "v0.06"
 -- }
 description = {
   summary = "Connection utilities for lua-resty-redis.",
